@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T17:38:47.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="O1A591Pkrf5bv31q-_TP" version="24.0.6" type="device">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" pages="2">
   <diagram id="jwyYaOj4ZGOG1R3Olgyf" name="Page-1">
     <mxGraphModel dx="1337" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,6 +44,29 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="530" as="sourcePoint" />
             <mxPoint x="1040" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9bCrR9fl_yiUIcYSqUbo" name="Page-2">
+    <mxGraphModel dx="1051" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7whymqGhwKrtivq3HmCd-1" parent="1" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=0;" value="&lt;h1&gt;Vertical button&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="159" width="190" x="440" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="7whymqGhwKrtivq3HmCd-2" parent="1" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=vertical-lr;spacingLeft=4;spacingBottom=4;spacingRight=4;" value="&lt;p&gt;&lt;font size=&quot;5&quot;&gt;&lt;b&gt;Vertical - Left to Right&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="230" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="7whymqGhwKrtivq3HmCd-3" parent="1" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=vertical-rl;spacingLeft=4;spacingBottom=4;spacingRight=4;" value="&lt;h1&gt;Vertical - Right to Left&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="470" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="7whymqGhwKrtivq3HmCd-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="850" as="sourcePoint" />
+            <mxPoint x="670" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
