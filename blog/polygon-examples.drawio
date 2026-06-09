@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="QkyNI3KZfJ_FeC2m0EEc">
+    <mxGraphModel dx="1280" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="320" width="250" x="610" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="320" width="250" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-1" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0.43,0.83],[0.86,0.67],[0.86,0.5],[0.43,0.83],[0.86,0.42],[0.79,0.33],[0.43,0.83],[0.79,0.25],[0.64,0.17],[0.43,0.83],[0.57,0.17],[0.43,0.17],[0.43,0.83],[0.36,0.17],[0.21,0.25],[0.43,0.83],[0.21,0.33],[0.14,0.42],[0.43,0.83],[0.14,0.5],[0.14,0.67],[0.43,0.83],[0.5,0.92],[0.43,0.92],[0.36,0.92],[0.43,0.83],[0.43,0.83]];polyCurves=[[],[&quot;Q&quot;,1,0.58],[],[],[&quot;Q&quot;,0.93,0.25],[],[],[&quot;Q&quot;,0.71,0.08],[],[],[&quot;Q&quot;,0.5,0],[],[],[&quot;Q&quot;,0.29,0.08],[],[],[&quot;Q&quot;,0.07,0.25],[],[],[&quot;Q&quot;,0,0.58],[],[&quot;Q&quot;,0.57,0.83],[&quot;Q&quot;,0.5,1],[&quot;Q&quot;,0.36,1],[&quot;Q&quot;,0.29,0.83],[]];polyline=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;points=[[0.43,0.82,0,0,0]];" value="" vertex="1">
+          <mxGeometry height="170" width="160" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-2" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0,1],[0.5,1],[1,1],[1,0.63],[0.5,0.63],[0.5,0]];polyCurves=[[],[],[],[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;points=[[0,0.5,0,0,0],[0.01,0.01,0,0,0],[0.01,0.99,0,0,0],[0.29,0.01,0,0,0],[0.5,0.01,0,0,0],[0.5,1,0,0,0],[1,0.64,0,0,0],[1,0.84,0,0,0],[1,0.99,0,0,0]];" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="80" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-4" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0,1],[0.07,1],[0.07,0.36],[0.15,0.36],[0.15,1],[0.22,1],[0.22,0.43],[0.26,0.43],[0.26,1],[0.33,1],[0.33,0.36],[0.41,0.36],[0.41,1],[0.48,1],[0.48,0.43],[0.52,0.43],[0.52,1],[0.59,1],[0.59,0.36],[0.67,0.36],[0.67,1],[0.74,1],[0.74,0.43],[0.78,0.43],[0.78,1],[0.85,1],[0.85,0.36],[0.93,0.36],[0.93,1],[1,1],[1,0.21],[0.78,0.21],[0.78,0.36],[0.74,0.36],[0.74,0.21],[0.52,0.21],[0.52,0.36],[0.48,0.36],[0.48,0.21],[0.26,0.21],[0.26,0.36],[0.22,0.36],[0.22,0.21],[0,0.21]];polyCurves=[[],[],[&quot;Q&quot;,0.11,0.21],[],[],[],[],[],[],[],[&quot;Q&quot;,0.37,0.21],[],[],[],[],[],[],[],[&quot;Q&quot;,0.63,0.21],[],[],[],[],[],[],[],[&quot;Q&quot;,0.89,0.21],[],[],[],[&quot;Q&quot;,0.89,0],[],[],[],[&quot;Q&quot;,0.63,0],[],[],[],[&quot;Q&quot;,0.37,0],[],[],[],[&quot;Q&quot;,0.11,0]];polyline=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;points=[[0,0.9,0,0,0],[1,0.9,0,0,0]];gradientDirection=north;" value="" vertex="1">
+          <mxGeometry height="130" width="140" x="80" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-5" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0.5],[0.38,0.79],[0.38,0.64],[0.38,0.79],[0.62,0.79],[1,0.5],[0.69,0.21],[0.69,0.21],[0.31,0.21],[0.31,0.21],[0.31,0],[0.31,0.21],[0,0.5],[0.31,0.21],[0.69,0.21],[1,0.5],[1,0.5],[1,0.71],[1,0.5],[0.77,0.86],[0.77,1],[0.77,0.86],[0.62,0.86],[0.38,0.86],[0.23,0.86],[0.23,0.86],[0.23,1],[0.23,0.86],[0,0.5],[0,0.71]];polyCurves=[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+          <mxGeometry height="225" width="190" x="390" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-12" edge="1" parent="1" source="nIhdc1sX5kQ_xm05cKRw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.32;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" target="nIhdc1sX5kQ_xm05cKRw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-18" edge="1" parent="1" source="nIhdc1sX5kQ_xm05cKRw-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.38;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#e6d0de;gradientColor=#d5739d;" target="nIhdc1sX5kQ_xm05cKRw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-19" edge="1" parent="1" source="nIhdc1sX5kQ_xm05cKRw-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.77;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#e6d0de;gradientColor=#d5739d;" target="nIhdc1sX5kQ_xm05cKRw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-20" edge="1" parent="1" source="nIhdc1sX5kQ_xm05cKRw-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#e6d0de;gradientColor=#d5739d;" target="nIhdc1sX5kQ_xm05cKRw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-21" edge="1" parent="1" source="nIhdc1sX5kQ_xm05cKRw-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#e6d0de;gradientColor=#d5739d;" target="nIhdc1sX5kQ_xm05cKRw-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-9" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0.45],[0.38,0.89],[0.38,0.89],[0.62,0.89],[1,0.45],[0.69,0],[0.69,0],[0.31,0],[0.31,0],[0.31,0],[0,0.45],[0.31,0],[0.69,0],[1,0.45],[1,0.45],[1,0.45],[0.77,1],[0.77,1],[0.62,1],[0.38,1],[0.23,1],[0.23,1],[0.23,1],[0,0.45]];polyCurves=[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;points=[[0,0.44,0,0,0],[0.23,0.99,0,0,0],[0.32,0,0,0,0],[0.38,0.89,0,0,0],[0.61,0.89,0,0,0],[0.69,0,0,0,0],[0.77,0.99,0,0,0],[1,0.44,0,0,0]];" value="" vertex="1">
+          <mxGeometry height="146.25" width="190" x="640" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CH&lt;sub&gt;2&lt;/sub&gt;OH" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="OH" vertex="1">
+          <mxGeometry height="30" width="60" x="800" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="OH" vertex="1">
+          <mxGeometry height="30" width="60" x="758" y="606" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="OH" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="OH" vertex="1">
+          <mxGeometry height="30" width="60" x="680" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="With connection points" vertex="1">
+          <mxGeometry height="30" width="130" x="670" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Connection structure built into polygon" vertex="1">
+          <mxGeometry height="30" width="130" x="420" y="590" as="geometry" />
+        </mxCell>
+        <UserObject label="A shell shape for infographics" link="https://drawio.com/docs/tutorials/draw-infographics" linkTarget="_blank" id="nIhdc1sX5kQ_xm05cKRw-28">
+          <mxCell parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1">
+            <mxGeometry height="30" width="140" x="70" y="240" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="A heater shape for home lab diagrams" link="https://drawio.com/docs/diagram-types/home-lab-diagrams/" id="nIhdc1sX5kQ_xm05cKRw-29">
+          <mxCell parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1">
+            <mxGeometry height="30" width="140" x="70" y="450" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIhdc1sX5kQ_xm05cKRw-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="An L shape" vertex="1">
+          <mxGeometry height="30" width="140" x="90" y="650" as="geometry" />
+        </mxCell>
+        <UserObject label="Haworth projections of structural formulae for chemical diagrams and reports" link="https://drawio.com/docs/diagram-types/structural-formulas" id="nIhdc1sX5kQ_xm05cKRw-31">
+          <mxCell parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1">
+            <mxGeometry height="30" width="500" x="360" y="640" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
